@@ -36,28 +36,28 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Tweak Font Sizes
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+    description                           : Set your preferred minimum font size. The extension will update the text size on Safari.
+    fontawesome_icon_name                 : text-height
 
   - title                                 : Tweak line heights, weight and kerning ( pro )
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+    description                           : Automatically updates Safari text upon website visit. You can also change the line height, font weight and kerning of text.
+    fontawesome_icon_name                 : text-width
 
   - title                                 : iCloud Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+    description                           : Font size settings will be sync to all your iCloud devices.
+    fontawesome_icon_name                 : cloud
 
   - title                                 : Change App icon and appearance
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+    description                           : Don't like my color choice, choose from a list of different colors.
+    fontawesome_icon_name                 : palette
 
   - title                                 : No Tracking
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+    description                           : Tweak Safari Fonts respects your privacy. It will never add tracking
+    fontawesome_icon_name                 : user-secret
 
   - title                                 : Dark mode
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+    description                           : Supports dark mode out of the box
+    fontawesome_icon_name                 : moon
 
 
 # Theme Settings
