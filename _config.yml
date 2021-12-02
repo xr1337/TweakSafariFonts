@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : palette
 
   - title                                 : No Tracking
-    description                           : Tweak Safari Fonts respects your privacy. It will never add tracking
+    description                           : Respects your privacy. It will never add tracking
     fontawesome_icon_name                 : user-secret
 
   - title                                 : Dark mode

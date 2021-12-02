@@ -10,10 +10,10 @@ November 28 2021
 # Privacy Policy
 
 ## 1.0 Information We Collect
-Tweak Safari Fonts ( web extension ) does not collect anything.
-Tweak Safari Fonts ( web extension ) does not send any data from or to your device. All functionality is performed on your device. There are no analytics.
+Tweak Web Fonts ( web extension ) does not collect anything.
+Tweak Web Fonts ( web extension ) does not send any data from or to your device. All functionality is performed on your device. There are no analytics.
 
-Tweak Safari Fonts (iOS app) does keep track of a userID and purchase. This is collected from our in-app purchase service which ensure PRO purchase functionality.
+Tweak Web Fonts (iOS app) does keep track of a userID and purchase. This is collected from our in-app purchase service which ensure PRO purchase functionality.
 
 If we add any tracking in the future we will let you know, but even then it will be for the functionality of the app, and not for marketing / data collection.
 
