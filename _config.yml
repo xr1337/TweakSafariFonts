@@ -39,6 +39,10 @@ features                                  :
     description                           : Set your preferred minimum font size. The extension will update the text size on Safari.
     fontawesome_icon_name                 : text-height
 
+  - title                                 : Override Font family
+    description                           : Websites will use your preferred font when rendering text. No more font surprises!
+    fontawesome_icon_name                 : font
+
   - title                                 : Tweak line heights, weight and kerning ( pro )
     description                           : Automatically updates Safari text upon website visit. You can also change the line height, font weight and kerning of text.
     fontawesome_icon_name                 : text-width
