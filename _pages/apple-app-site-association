@@ -1,0 +1,26 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "com.xr1337.ReaderSafari"
+                ],
+                "components": [
+                    {
+                        "#": "no_universal_links",
+                        "exclude": true,
+                        "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+                    },
+                    {
+                        "/": "/purchase",
+                        "comment": "open purchase page"
+                    },
+                    {
+                        "/": "/setup",
+                        "comment": "opens home page"
+                    }
+                ]
+            }
+        ]
+    }
+}
