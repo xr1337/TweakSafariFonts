@@ -51,9 +51,9 @@
 
 	</div>
 	<div class="footerLinks">
-		{% for page in site.pages %}
-			<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
-		{% endfor %}
+			<a href="/changelog/" target="_self">What's New</a>
+			<a href="/privacypolicy/" target="_self">Privacy Policy</a>
+			<a href="/terms/" target="_self">Terms of Use</a>
 		{% if site.presskit_download_link %}
 			<a href="{{ site.presskit_download_link }}">Press Kit</a>
 		{% endif %}
