@@ -17,6 +17,8 @@ Font Icons were overwritten by our Font overriding feature.
 Which made them render as empty squares...
 ````
 
+Smoother experience to open the app from popup ( does not ask for confirmation ).
+
 # **Version 1.0**
 This is the first release.
 Tweak Web Fonts runs as a Safari extension that allows you to update font sizes on websites.
