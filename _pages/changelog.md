@@ -10,6 +10,9 @@ History changes of Tweak Web Fonts
 <br>
 
 ### `Latest`
+# **Version 1.2**
+Premium users can opt out of auto font rendering ( option is visible in the popup menu )
+
 # **Version 1.01**
 Fixed a bug with FontIcons:
 ````
