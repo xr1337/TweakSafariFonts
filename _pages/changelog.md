@@ -10,6 +10,11 @@ History changes of Tweak Web Fonts
 <br>
 
 ### `Latest`
+# **Version 1.3**
+Allow users to select `-apple-system` fonts.
+
+`-apple-system` font is similar to San Francisco Fonts.
+
 # **Version 1.2**
 Premium users can opt out of auto font rendering ( option is visible in the popup menu )
 
