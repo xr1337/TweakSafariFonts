@@ -63,6 +63,10 @@ features                                  :
     description                           : Supports dark mode out of the box
     fontawesome_icon_name                 : moon
 
+  - title                                 : Dyslexia fonts
+    description                           : Support for fonts that improve readability
+    fontawesome_icon_name                 : glasses
+
 
 # Theme Settings
 topbar_color                              : "#000000"
