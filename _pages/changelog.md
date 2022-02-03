@@ -18,6 +18,8 @@ Other smaller updates:
 - Performance upgrades to render text faster.
 - Fix icon fonts bad rendering.
 
+And Finally - we are available for MacOS
+
 # **Version 1.3**
 Allow users to select `-apple-system` fonts.
 
