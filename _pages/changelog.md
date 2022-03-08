@@ -10,6 +10,9 @@ History changes of Tweak Web Fonts
 <br>
 
 ### `Latest`
+# **Version 3.0**
+This version brings support for changing text color.
+
 # **Version 2.0**
 This version brings support for OpenDyslexia fonts.
 More fonts will be available in the future.
