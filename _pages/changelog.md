@@ -10,6 +10,12 @@ History changes of Tweak Web Fonts
 <br>
 
 ### `Latest`
+# **Version 3.2**
+Allow to reset font sizes, font weight and line height
+
+# **Version 3.1**
+Bugfixes and Icon changes
+
 # **Version 3.0**
 This version brings support for changing text color.
 
