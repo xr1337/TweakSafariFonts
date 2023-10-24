@@ -16,6 +16,10 @@
                         "comment": "open purchase page"
                     },
                     {
+                        "/": "/reward",
+                        "comment": "view an ad"
+                    },
+                    {
                         "/": "/setup",
                         "comment": "opens home page"
                     }
