@@ -1,0 +1,31 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "5472Y4VEBN.com.xr1337.ReaderSafari",
+                    "5472Y4VEBN.com.xr1337.ReaderSafariEDU"
+                ],
+                "components": [
+                    {
+                        "#": "no_universal_links",
+                        "exclude": true,
+                        "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+                    },
+                    {
+                        "/": "/purchase",
+                        "comment": "open purchase page"
+                    },
+                    {
+                        "/": "/reward",
+                        "comment": "view an ad"
+                    },
+                    {
+                        "/": "/setup",
+                        "comment": "opens home page"
+                    }
+                ]
+            }
+        ]
+    }
+}
