@@ -23,6 +23,10 @@
                     {
                         "/": "/setup",
                         "comment": "opens home page"
+                    },
+                    {
+                        "/": "/edit",
+                        "comment": "opens home page"
                     }
                 ]
             }
